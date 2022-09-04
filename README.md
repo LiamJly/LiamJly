@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate wannabe fullstack developer</h3>
+<h3 align="center">A passionate aspiring fullstack developer</h3>
 
 - 🔭 I’m currently working on **some personal projects**
 
