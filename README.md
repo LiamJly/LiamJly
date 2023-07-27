@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate aspiring fullstack developer</h3>
+<h3 align="center">A passionate aspiring DevOps</h3>
 
 - 🔭 I’m currently working on **some personal projects**
 
-- 🌱 I’m currently learning **React, TypeScript and Docker**
+- 🌱 I’m currently learning **Go and Docker**
 
 - 📫 How to reach me **joly.liam@gmail.com or Shautopia#3270 on Discord**
 
